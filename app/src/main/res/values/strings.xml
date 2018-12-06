@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">YoutubeFavorite</string>
+    <string name="youtube_list">유튜브 리스트</string>
+    <string name="gallary_list">갤러리 리스트</string>
+</resources>
